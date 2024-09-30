@@ -1,7 +1,18 @@
 # Credit_Card_Financial_Dashboard
-Power BI Dashboard
+  Steps in Project :
+1. Requirement gathering / Business requirement.
+2. Data Walkthrough
+3. Data collection
+4. Data Cleaning / Quality check 
+5. Data Modelling 
+6. Data Processing
+7. Dax Collection
+8. Dashboard Lay outing
+9. Charts Development & Formatting
+10. Dashboard / Reports Development
+11. Insight Generation
 
-Project's Objective: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+Business Requirement: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 The Steps that I covered during projects:
 
